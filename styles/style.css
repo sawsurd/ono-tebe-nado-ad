@@ -50,10 +50,6 @@ header {
     margin-top: 3px;
 }
 
-.address__text {
-    width: 237px;
-}
-
 .main {
     width: 1100px;
     margin: 0 auto;
@@ -161,7 +157,7 @@ header {
     margin: 0 64px 27px;
 }
 
-.lots__list{
+.lots__list {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -337,7 +333,8 @@ header {
     font-weight: 400;
     line-height: 24.3px;
     margin: 0;
-    padding-left: 1.1px ;
+    padding-left: 1.1px;
+    width: 237px;
 }
 
 .footer .address__text {
